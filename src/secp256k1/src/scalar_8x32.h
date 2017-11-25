@@ -4,8 +4,8 @@
  * file COPYING or http://www.opensource.org/licenses/mit-license.php.*
  **********************************************************************/
 
-#ifndef _SECP256K1_SCALAR_REPR_
-#define _SECP256K1_SCALAR_REPR_
+#ifndef SECP256K1_SCALAR_8X32_H_
+#define SECP256K1_SCALAR_8X32_H_
 
 #include <stdint.h>
 
